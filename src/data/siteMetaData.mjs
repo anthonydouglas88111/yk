@@ -1,0 +1,18 @@
+export const siteMetadata = {
+  title: "Portfolio",
+  author: "Yurii Kinakh",
+  description: "AI Full Stack Engineer",
+  language: "en-us",
+  theme: "light",
+  siteName: "yuriikinakh5.vercel.com",
+  siteUrl: "https://yuriikinakh5.vercel.com",
+  siteRepo: "https://github.com",
+  siteLogo: "/favicon.ico",
+  image: "/assets/static/homepage.png",
+  email: "yuriikinakh5@gmail.com",
+  github: "https://github.com",
+  locale: "en-US",
+  country: "Ukraine",
+  city: "Peretoky",
+  short: "ua",
+};
